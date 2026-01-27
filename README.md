@@ -13,5 +13,5 @@
   <img src="https://media.discordapp.net/attachments/822702212793892934/1465834856431882516/Untitled38_20260127142337.png?ex=697a8c97&is=69793b17&hm=101a9a605bb9bd4b9f32fd10249706ff552901e05ee5f43720409c705b3a5589&=&format=webp&quality=lossless&width=596&height=70" width="300" />
   
 <h5 align="center">
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokm00zv4j0eyrltnlsww5jkp&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1a1d1e&interchange=false&profanity=false&bar_color=1fe0ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokm00zv4j0eyrltnlsww5jkp&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=0283bb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
